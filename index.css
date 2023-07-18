@@ -1,0 +1,8 @@
+.box {
+    border: 2px solid red;
+    height: 700px;
+    width: 700px;
+    background: url("images/people.jpg");
+    background-size: cover;
+    filter: grayscale() contrast(50%);
+}
